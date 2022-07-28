@@ -1,16 +1,22 @@
-### Hi there 👋
+## 💜 Hello, My name is <strong>Victor Hugo!</strong>
 
-<!--
-**victorvcruz/victorvcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am crazy about studies and challenges. I love video games, music and technology.<br>
+I'm a pianist and a software development fanatic.
+----
 
-Here are some ideas to get you started:
+## 🚀 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" alt="redis"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
