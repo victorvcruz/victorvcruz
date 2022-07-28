@@ -4,7 +4,7 @@
 I'm a pianist and a software development fanatic.
 ----
 
-## 🚀 My Skills
+### 🚀 My Skills
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java"/></code>
@@ -16,7 +16,7 @@ I'm a pianist and a software development fanatic.
 
 ---
 
-## ⭐ Weekly develoment breakdown
+### ⭐ Weekly develoment breakdown
 <!--START_SECTION:waka-->
 
 ```text
@@ -24,3 +24,10 @@ Go   57 mins         ███████████████████�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvcruz" /></a>
+</p>  
