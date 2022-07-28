@@ -16,7 +16,7 @@ I'm a pianist and a software development fanatic.
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Weekly develoment breakdown
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
