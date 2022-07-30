@@ -20,7 +20,12 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Go   57 mins         █████████████████████████   100.00 %
+JavaScript       4 hrs           ████████████████▓░░░░░░░░   66.94 %
+Go               44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+GSP              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Docker           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+GitIgnore file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Gosu             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
