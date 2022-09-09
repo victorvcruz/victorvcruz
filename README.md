@@ -20,12 +20,12 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Go                10 hrs 54 mins  ███████████▒░░░░░░░░░░░░░   45.24 %
-Ruby              5 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-ERB               3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Groovy            1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-YAML              1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Markdown          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Go                13 hrs 58 mins  ███████████████░░░░░░░░░░   60.53 %
+Ruby              2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+ERB               2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Groovy            1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+YAML              57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Markdown          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
