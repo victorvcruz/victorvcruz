@@ -20,11 +20,11 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Go               10 hrs 42 mins  ██████████████▒░░░░░░░░░░   56.81 %
-Python           4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-Groovy           3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-Java             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go               10 hrs 44 mins  ███████████████▒░░░░░░░░░   61.89 %
+Groovy           4 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+Python           1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Java             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
