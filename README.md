@@ -20,12 +20,12 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Groovy         15 hrs 30 mins  ████████████████████████░   96.51 %
-Go             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Properties     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Gradle         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-SQL            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Groovy         18 hrs 20 mins  ████████████████████████▒   97.89 %
+YAML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Gradle         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Properties     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+SQL            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
