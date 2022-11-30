@@ -20,12 +20,12 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Groovy            18 hrs 34 mins  █████████████████▓░░░░░░░   70.64 %
-Go                3 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-JavaScript        1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-SQL               55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Protocol Buffer   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-YAML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Groovy            13 hrs 49 mins  ████████████▒░░░░░░░░░░░░   48.72 %
+Go                10 hrs 26 mins  █████████▒░░░░░░░░░░░░░░░   36.80 %
+JavaScript        1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+SQL               30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Protocol Buffer   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
