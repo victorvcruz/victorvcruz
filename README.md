@@ -20,12 +20,12 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```text
-Go                21 hrs 7 mins   █████████████████████████   99.76 %
-protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                26 hrs 8 mins   ████████████████████████▒   97.71 %
+JSON              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Text              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
