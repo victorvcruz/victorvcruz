@@ -20,11 +20,11 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```txt
-Go               16 hrs 17 mins  ██████████████████████▓░░   90.31 %
-TypeScript       1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-HTML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go               14 hrs 52 mins  ████████████████████▒░░░░   81.49 %
+TypeScript       2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+SQL              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
