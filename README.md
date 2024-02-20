@@ -16,7 +16,7 @@ I'm a pianist and a software development fanatic.
 
 ---
 
-### ⭐ Weekly develoment breakdown
+### ⭐ Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
