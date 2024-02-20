@@ -1,4 +1,4 @@
-## 💜 Hello, My name is <strong>Victor Hugo!</strong>
+## 💙 Hello, My name is <strong>Victor Hugo!</strong>
 
 > I am crazy about studies and challenges. I love video games, music and technology.<br>
 I'm a pianist and a software development fanatic.
