@@ -20,11 +20,11 @@ I'm a pianist and a software development fanatic.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                7 hrs 15 mins   ████████████████████▒░░░░   80.68 %
-YAML              1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Docker            25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-protobuf          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Go                7 hrs 22 mins   ████████████████████████▒   97.91 %
+protobuf          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
