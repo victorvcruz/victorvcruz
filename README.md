@@ -16,18 +16,5 @@ I'm a pianist and a software development fanatic.
 
 ---
 
-### ⭐ Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-HTML         4 hrs 34 mins   ███████████░░░░░░░░░░░░░░   44.40 %
-Go           3 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   36.51 %
-JavaScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-YAML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-```
-
-<!--END_SECTION:waka-->
-
 [![Linkedin:linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvcruz/)](https://www.linkedin.com/in/victorvcruz/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugov4308@gmail.com)](mailto:hugov4308@gmail.com) 
